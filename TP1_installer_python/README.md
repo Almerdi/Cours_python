@@ -2,7 +2,7 @@
 
 
 ### 1. Télécharger et installer Anaconda ou Python
-Rendez-vous sur le site officiel et téléchargez **Anaconda** ou **Python**.
+Rendez-vous sur le site officiel et téléchargez **[Anaconda](https://www.anaconda.com/download)** ou **[Python](https://www.python.org)**.
 
 
 ### 2. Créer un environnement virtuel avec Anaconda

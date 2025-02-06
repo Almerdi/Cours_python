@@ -17,3 +17,7 @@ Un palindrome est un mot qui se lit de la même manière à l’endroit et à l�
 
 1. Écrire une fonction qui vérifie si une chaîne de caractères est un palindrome.
 2. affichez le resultat de mots : radar, python, kayak .
+
+### Exercice 3 : Création d’un profil utilisateur
+
+Créer une fonction creer_profil qui prend un nom et un prénom en arguments obligatoires et des informations supplémentaires sous forme de ```python **kwargs ```.

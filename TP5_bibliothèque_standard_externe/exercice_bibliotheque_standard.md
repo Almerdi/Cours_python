@@ -12,7 +12,6 @@ Créer un programme qui :
 - Affiche un message de victoire avec le nombre de tentatives utilisées.
 - Affiche le bon nombre si l’utilisateur perd.
 
----
 
 ## Exercice 2 : Générateur de mot de passe (`random`)
 
@@ -26,7 +25,6 @@ Créer un programme qui :
 - Vérifie que le mot de passe contient au moins un chiffre.
 - Affiche le mot de passe généré.
 
----
 
 ## Exercice 3 : Calculateur d’âge précis (`datetime`)
 
@@ -37,7 +35,6 @@ Créer un programme qui :
 - Calcule le nombre total de jours vécus.
 - Affiche les résultats.
 
----
 
 ## Exercice 4 : Création automatique de dossier daté (`os` + `datetime`)
 
@@ -48,8 +45,6 @@ Créer un programme qui :
 - Vérifie si le dossier existe déjà :
   - S’il existe, afficher un message d’information.
   - Sinon, créer le dossier et afficher un message de confirmation.
-
----
 
 ## Exercice 5 : Journal d’activité aléatoire (`random` + `datetime` + `os`)
 
